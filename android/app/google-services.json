@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984985036261",
+    "project_id": "mundo-suplementos-389de",
+    "storage_bucket": "mundo-suplementos-389de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984985036261:android:3928fc01d0e45015d9fb0c",
+        "android_client_info": {
+          "package_name": "com.exemple.mundosuplementos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984985036261-qcq59ac7dvv72j67hoaktdmdvo2mh0mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWEtSP4wPELuX5rTblFesvhofuelXAxao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984985036261-qcq59ac7dvv72j67hoaktdmdvo2mh0mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
